@@ -1,2 +1,6 @@
-# JavaScript
-[Colock & Angle Using P5.js](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
+# JavaScript<h1>
+
+* [Colock & Angle](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
+
+* [Snake Game](https://bishoy-magdy.github.io/JavaScript/Snake/Snake.html)
+
