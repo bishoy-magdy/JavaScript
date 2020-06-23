@@ -1,4 +1,4 @@
-# JavaScript<h1>
+# JavaScript
 
 * [Colock & Angle](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
 
