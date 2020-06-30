@@ -1,6 +1,6 @@
 # JavaScript
 
-* [Colock & Angle](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
+* [Clock & Angle](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
 
 * [Snake Game](https://bishoy-magdy.github.io/JavaScript/Snake/Snake.html)
 
