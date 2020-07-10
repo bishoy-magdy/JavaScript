@@ -7,9 +7,7 @@ let ax, ay, bx, by, cx, cy, dx, dy, ex, ey, rx, ry, slider_;
 let div = (2 / 3);
 
 function setup() {
-    let w = createCanvas(windowWidth / 2, windowHeight - 50);
-
-    w.position(width / 2, 0);
+    createCanvas(900, 900);
     background(56, 62, 86);
 
     ax = width / 2;
@@ -28,21 +26,20 @@ function setup() {
     ey = height / 2;
     stroke(255, 255, 50);
     strokeWeight(20);
-    //five point
-    /*
+
     point(ax, ay);
     point(bx, by);
     point(cx, cy);
     point(dx, dy);
     point(ex, ey);
-*/
+
     rx = random(width);
     ry = random(height);
 
     slider_ = createSlider(1, 250, 0.5, 0.5);
     let P = createP('Frame Rate');
-    P.position(width - 50, height);
-    slider_.position(width - 50, height);
+    P.position(0, height);
+
 }
 
 
