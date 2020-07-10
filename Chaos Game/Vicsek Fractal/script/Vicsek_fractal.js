@@ -26,19 +26,23 @@ function setup() {
     ey = height / 2;
     stroke(255, 255, 50);
     strokeWeight(20);
-
+    //four points
+    /*
     point(ax, ay);
     point(bx, by);
     point(cx, cy);
     point(dx, dy);
     point(ex, ey);
-
+*/
     rx = random(width);
     ry = random(height);
 
     slider_ = createSlider(1, 250, 0.5, 0.5);
     let P = createP('Frame Rate');
-    P.position(0, height);
+    P.position(width / 2, height);
+    P.style('font-size', '19px');
+    slider_.position(width / 2, height);
+
 
 }
 
