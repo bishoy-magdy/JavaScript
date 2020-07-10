@@ -27,10 +27,11 @@ function setup() {
         ry = random(height);
 
     slider_ = createSlider(1, 500, 0.5, 0.5);
-        let P = createP('Frame Rate');
+     let P = createP('Frame Rate');
     P.position(width / 2, height);
     P.style('font-size', '19px');
     slider_.position(width / 2, height);
+
 
 
 }
