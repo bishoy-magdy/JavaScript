@@ -4,6 +4,8 @@
 
 * [Snake Game](https://bishoy-magdy.github.io/JavaScript/Snake/Snake.html)
 
+* [Minesweeper](https://bishoy-magdy.github.io/JavaScript/Minesweeper/Minesweeper.html)
+
 ### Chaos Game
 
 * [Vicsek Fractal](https://bishoy-magdy.github.io/JavaScript/Chaos%20Game/Vicsek%20Fractal/Vicsek_fractal.html)
