@@ -3,5 +3,5 @@
 
 * [Clock & Angle](https://bishoy-magdy.github.io/JavaScript/clock/clock.html)
 
-* [Snake Game](https://bishoy-magdy.github.io/JavaScript/Snake/snake.html)
+* [Snake Game](https://bishoy-magdy.github.io/JavaScript/snake/snake.html)
 
